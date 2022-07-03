@@ -14,5 +14,5 @@ figlet -f big Done !!! | lolcat
 echo
 echo -e "\e[1m Now Runing main process"
 echo
-echo -e "\e[44mCreated by Talha Tech Studio\e[0m"
+echo -e "\e[44mCreated by Talha Technology Channel\e[0m"
 bash banner.sh
